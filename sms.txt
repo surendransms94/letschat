@@ -2,3 +2,4 @@ status search with name option is available
 status time extended to 60 min 
 status limit is only 5 status
 Give me notifications  when particular person see my status
+status with repeat option
