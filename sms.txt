@@ -1,0 +1,2 @@
+status search with name option is available
+status time extended to 60 min 
